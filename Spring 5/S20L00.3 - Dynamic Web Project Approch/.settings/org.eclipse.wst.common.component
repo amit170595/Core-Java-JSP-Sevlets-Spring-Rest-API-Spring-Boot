@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="S20L00.3 - Dynamic Web Project Approch">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="S20L00.3_-_Dynamic_Web_Project_Approch"/>
+        <property name="java-output-path" value="/S20L00.3 - Dynamic Web Project Approch/build/classes"/>
+    </wb-module>
+</project-modules>
